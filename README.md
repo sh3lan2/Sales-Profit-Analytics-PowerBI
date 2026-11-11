@@ -1,12 +1,10 @@
 # 📊 Sales & Profit Analytics Dashboard (Power BI)
 
-An end-to-end interactive Power BI dashboard analyzing sales performance, profitability metrics, order quantities, and regional distribution to drive strategic business growth.
+An interactive Power BI dashboard analyzing regional sales performance, profit margins, and customer trends.
 
 ## 📷 Dashboard Overview
 
-<img src="sales_dashboard.jpg" width="100%" alt="Sales & Profit Dashboard">
-
----
+![Sales Dashboard](Screenshot%202026-11-11%20161755.jpg)
 
 ## 🎥 Interactive Video Demo
 

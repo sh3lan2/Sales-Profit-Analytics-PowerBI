@@ -6,11 +6,6 @@ An interactive Power BI dashboard analyzing regional sales performance, profit m
 
 ![Sales Dashboard](Screenshot%202026-11-11%20161755.jpg)
 
-## 🎥 Interactive Video Demo
-
-<video src="sales_video.mp4" controls width="100%"></video>
-
-
 ## 📈 Key Performance Indicators (KPIs)
 
 * **Total Revenue:** $1.93M

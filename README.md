@@ -4,7 +4,8 @@ An interactive Power BI dashboard analyzing regional sales performance, profit m
 
 ## 📷 Dashboard Overview
 
-![Sales Dashboard](![Screenshot description](assets/screenshot.png)
+![Sales Dashboard](Screenshot%202026-11-11%20161755.png)
+
 
 
 ## 📈 Key Performance Indicators (KPIs)

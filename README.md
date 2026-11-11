@@ -6,14 +6,13 @@ An end-to-end interactive Power BI dashboard analyzing sales performance, profit
 
 ## 📷 Dashboard Overview
 
-![Sales & Profit Dashboard](Screenshot%202026-11-11%20161755.jpg)
+<img src="Screenshot%202026-11-11%20161755.jpg" width="100%" alt="Sales & Profit Dashboard">
 
 ---
 
 ## 🎥 Interactive Video Demo
 
-![Sales & Profit Dashboard Video Demo](Video%20Project%205.mp4)
-
+<video src="Video%20Project%205.mp4" controls width="100%"></video>
 ---
 
 ## 📈 Key Performance Indicators (KPIs)

@@ -4,13 +4,15 @@ An end-to-end interactive Power BI dashboard analyzing sales performance, profit
 
 ## 📷 Dashboard Overview
 
-<img src="./Screenshot%202026-11-11%20161755.jpg" width="100%" alt="Sales & Profit Dashboard">
+<img src="sales_dashboard.jpg" width="100%" alt="Sales & Profit Dashboard">
 
 ---
 
 ## 🎥 Interactive Video Demo
 
-<video src="./Video%20Project%205.mp4" controls width="100%"></video>
+<video src="sales_video.mp4" controls width="100%"></video>
+
+
 ## 📈 Key Performance Indicators (KPIs)
 
 * **Total Revenue:** $1.93M
